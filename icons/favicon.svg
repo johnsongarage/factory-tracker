@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="112" fill="#0b0f17"/>
+  <rect width="512" height="512" rx="112" fill="#0D0D0D"/>
   <g transform="translate(96 132)">
-    <rect x="0" y="0" width="320" height="44" rx="22" fill="#1e293b"/>
-    <rect x="0" y="0" width="220" height="44" rx="22" fill="#22c55e"/>
-    <rect x="0" y="102" width="320" height="44" rx="22" fill="#1e293b"/>
-    <rect x="0" y="102" width="150" height="44" rx="22" fill="#38bdf8"/>
-    <rect x="0" y="204" width="320" height="44" rx="22" fill="#1e293b"/>
-    <rect x="0" y="204" width="80" height="44" rx="22" fill="#f59e0b"/>
+    <rect x="0" y="0" width="320" height="44" rx="22" fill="#2A2A2A"/>
+    <rect x="0" y="0" width="220" height="44" rx="22" fill="#C9B27C"/>
+    <rect x="0" y="102" width="320" height="44" rx="22" fill="#2A2A2A"/>
+    <rect x="0" y="102" width="150" height="44" rx="22" fill="#8DB4F0"/>
+    <rect x="0" y="204" width="320" height="44" rx="22" fill="#2A2A2A"/>
+    <rect x="0" y="204" width="80" height="44" rx="22" fill="#F0A35E"/>
   </g>
 </svg>
